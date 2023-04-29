@@ -1,0 +1,13 @@
+*.sfc
+*.lnk
+*.jar
+*.zip
+test/*
+bin/*
+obj/*
+*/*/bin/*
+*/*/obj/*
+.vs/*
+*/.vs/*
+*.user
+*/Setup/*
